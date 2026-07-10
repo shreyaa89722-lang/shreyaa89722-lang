@@ -91,7 +91,7 @@ profile = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shreyaa89722-lang&theme=radical&no-frame=true&row=1)
 
 </div>
 
@@ -99,7 +99,7 @@ profile = {
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaa89722-lang&theme=react-dark&hide_border=true)
 
 ---
 
@@ -108,7 +108,7 @@ profile = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyaa89722-lang/shreyaa89722-lang)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
