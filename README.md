@@ -85,23 +85,36 @@ profile = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shreyaa89722-lang&theme=radical&no-frame=true&row=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 What I Am Learning
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaa89722-lang&theme=react-dark&hide_border=true)
+<div align="center">
+
+| Topic | Progress |
+|-------|----------|
+| Python | ████████░░ 80% |
+| Pandas | ███████░░░ 70% |
+| SQL | ██████░░░░ 60% |
+| Data Pipelines | █████░░░░░ 50% |
+| Data Visualization | ████░░░░░░ 40% |
+| Cloud (AWS) | ██░░░░░░░░ 20% |
+
+</div>
 
 ---
+
+## 📅 2026 Goals
 
 ## 🤝 Connect With Me
 
