@@ -1,4 +1,4 @@
-<div align="center">
+c<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Hi%20There!%20I'm%20Shreya%20👋&fontSize=40&fontColor=ffffff)
 
@@ -13,9 +13,8 @@
 ```python
 profile = {
     "name"      : "Shreya",
-    "college"   : "Malnad College of Engineering",
     "degree"    : "B.Tech - Final Year",
-    "location"  : "Bengaluru, India 🇮🇳",
+    "location"  : "Bengaluru, India",
     "passion"   : "Data Engineering & Analytics",
     "currently" : "Building real data pipelines!",
     "goal"      : "Data Engineering "
@@ -71,31 +70,6 @@ profile = {
 - 📊 **Insights:** Best cities, products, hours
 - 🔗 [View Project](YOUR_ECOMMERCE_PROJECT_LINK)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
-
----
 
 ## 🎯 What I Am Learning
 
@@ -114,15 +88,14 @@ profile = {
 
 ---
 
-## 📅 2026 Goals
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+shreya-gn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyaa89722-lang/shreyaa89722-lang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyaa897022@gmail.com)
 
 </div>
 
