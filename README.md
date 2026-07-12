@@ -1,122 +1,90 @@
-<div align="center">
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07050f"/>
+      <stop offset="50%" stop-color="#150a2e"/>
+      <stop offset="100%" stop-color="#22103f"/>
+    </linearGradient>
+    <linearGradient id="xpFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b5bfd"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dd3ff"/>
+      <stop offset="50%" stop-color="#c77dff"/>
+      <stop offset="100%" stop-color="#ff6fb5"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" opacity="0.02"/>
+    </pattern>
+  </defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=SHREYA.EXE;DATA+ENGINEER+-+LVL%3A+FINAL+YEAR;LOADING+SKILLS...;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+  <rect width="900" height="340" rx="18" fill="url(#bgGrad)"/>
+  <rect width="900" height="340" rx="18" fill="url(#scan)"/>
 
-<br>
+  <rect x="10" y="10" width="880" height="320" rx="14" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.6">
+    <animate attributeName="stroke" values="#7c3aed;#ec4899;#3b5bfd;#7c3aed" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="16" y="16" width="868" height="308" rx="12" fill="none" stroke="#ec4899" stroke-width="1" opacity="0.3"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b3d,50:7c3aed,100:ec4899&height=6&width=900" width="70%"/>
+  <g>
+    <rect x="70" y="60" width="6" height="6" fill="#7dd3ff" opacity="0.8">
+      <animate attributeName="y" values="60;40;60" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="820" y="90" width="6" height="6" fill="#ec4899" opacity="0.8">
+      <animate attributeName="y" values="90;70;90" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120" y="260" width="5" height="5" fill="#c77dff" opacity="0.8">
+      <animate attributeName="y" values="260;240;260" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="760" y="250" width="5" height="5" fill="#7dd3ff" opacity="0.8">
+      <animate attributeName="y" values="250;270;250" dur="3.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="450" y="45" width="5" height="5" fill="#ec4899" opacity="0.7">
+      <animate attributeName="y" values="45;60;45" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
-<br><br>
+  <g transform="translate(80,140)">
+    <rect x="0" y="10" width="10" height="30" fill="#c9b6ea"/>
+    <rect x="-10" y="20" width="30" height="10" fill="#c9b6ea"/>
+    <circle cx="55" cy="15" r="5" fill="#ec4899">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="70" cy="30" r="5" fill="#7dd3ff">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=EC4899"/></a>
-<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
-<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=EC4899"/></a>
+  <text x="450" y="120" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="52" font-weight="800" fill="url(#titleGrad)" letter-spacing="2" filter="url(#softGlow)">
+    SHREYA.EXE
+  </text>
+  <text x="450" y="150" text-anchor="middle" font-family="'Cascadia Code',monospace" font-size="15" fill="#c9b6ea" letter-spacing="3">
+    DATA ENGINEER · LEVEL: FINAL YEAR
+  </text>
 
-</div>
+  <g transform="translate(250,190)">
+    <text x="0" y="-10" font-family="Cascadia Code,monospace" font-size="12" fill="#7dd3ff">XP</text>
+    <rect x="0" y="0" width="400" height="18" rx="9" fill="#1a1030" stroke="#3a2560" stroke-width="1"/>
+    <rect x="0" y="0" width="0" height="18" rx="9" fill="url(#xpFill)">
+      <animate attributeName="width" from="0" to="320" dur="2s" fill="freeze"/>
+    </rect>
+    <text x="405" y="14" font-family="Cascadia Code,monospace" font-size="12" fill="#c9b6ea">80%</text>
+  </g>
 
-<br>
+  <g font-family="Cascadia Code,monospace" font-size="13" fill="#c9b6ea">
+    <text x="250" y="250">🐍 PYTHON  Lv.8</text>
+    <text x="250" y="272">🗄️ SQL     Lv.6</text>
+    <text x="480" y="250">🐼 PANDAS  Lv.7</text>
+    <text x="480" y="272">☁️ AWS     Lv.2</text>
+  </g>
 
-## 🎮 Player Stats
-
-```yaml
-character:   Shreya
-class:       Data Engineer (Aspiring)
-guild:       Malnad College of Engineering
-level:       Final Year — B.Tech
-current_hp:  Building end-to-end data pipelines
-mana:        SQL · Apache Airflow · AWS Cloud
-quest:       Land a Data Engineering internship 🎯
-```
-
-<br>
-
-## 🕹️ Skill Tree
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github,aws&theme=dark" />
-</div>
-
-<br>
-
-## 🏆 Quests Completed (Featured Projects)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎮 Gaming Sales Analytics
-**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends.
-
-`Python` `Pandas` `Matplotlib`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🎬 YouTube Trending Pipeline
-**Quest reward:** Analysed 40,000+ trending videos to find what drives virality.
-
-`Python` `SQLite` `SQL`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 E-Commerce Sales Analytics
-**Quest reward:** Processed 180,000+ orders to surface revenue trends.
-
-`Python` `SQL` `Matplotlib`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 Leaderboard (GitHub Stats)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&icon_color=7C3AED&text_color=c9b6ea" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&text_color=c9b6ea" width="35%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=EC4899&fire=EC4899&currStreakLabel=c9b6ea" width="70%"/>
-
-</div>
-
-<br>
-
-## ⚡ Achievements Unlocked
-
-| Achievement | Progress |
-|-------|----------|
-| 🐍 Python Mastery | ████████░░ 80% |
-| 🐼 Pandas Wizardry | ███████░░░ 70% |
-| 🗄️ SQL Sorcery | ██████░░░░ 60% |
-| 📊 Data Viz Skill | █████░░░░░ 50% |
-| ☁️ Cloud Conquest | ██░░░░░░░░ 20% |
-
-<br>
-
-## 🤝 Co-op Mode (Connect With Me)
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/shreya-gn)
-[![Gmail](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shreyaa89722@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🎮 *"Every dataset is just another level to clear."*
-
-</div>
+  <text x="450" y="310" text-anchor="middle" font-family="Cascadia Code,monospace" font-size="14" fill="#ff6fb5" letter-spacing="2">
+    ▶ PRESS START TO VIEW PROJECTS
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.55;0.95;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
