@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Shreya&backgroundColor=1a0b2e,2d1245&backgroundType=gradientLinear" width="180"/>
+<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/avatar.jpeg" width="200" style="border-radius: 12px;"/>
 
 <h1>Shreya</h1>
 
