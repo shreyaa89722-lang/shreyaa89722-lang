@@ -1,186 +1,148 @@
-<svg width="650" height="390" viewBox="0 0 650 390" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6C3483"/>
-      <stop offset="100%" stop-color="#D7BDE2"/>
-    </linearGradient>
-    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8E44AD"/>
-      <stop offset="100%" stop-color="#C39BD3"/>
-    </linearGradient>
-    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#9B59B6"/>
-      <stop offset="100%" stop-color="#E8DAEF"/>
-    </linearGradient>
-    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#76448A"/>
-      <stop offset="100%" stop-color="#BB8FCE"/>
-    </linearGradient>
-    <linearGradient id="bar5" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5B2C6F"/>
-      <stop offset="100%" stop-color="#A569BD"/>
-    </linearGradient>
-
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <style>
-      .label { font-family: 'Segoe UI', Verdana, sans-serif; font-size: 16px; fill: #E8DAEF; font-weight: 600; }
-      .pct   { font-family: 'Segoe UI', Verdana, sans-serif; font-size: 14px; fill: #D7BDE2; }
-      .track { fill: #1a1a1a; }
-    </style>
-  </defs>
-
-  <rect width="650" height="390" fill="#000000"/>
-  <text x="20" y="35" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#9B59B6">🎯 Current Learning Progress</text>
-
-  <!-- Python 80% -->
-  <text x="20" y="80" class="label">🐍 Python</text>
-  <rect x="20" y="90" width="590" height="16" rx="8" class="track"/>
-  <rect x="20" y="90" width="472" height="16" rx="8" fill="url(#bar1)" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="472" dur="1.2s" fill="freeze"/>
-  </rect>
-  <text x="620" y="103" class="pct" text-anchor="end">80%</text>
-
-  <!-- Pandas 70% -->
-  <text x="20" y="140" class="label">🐼 Pandas</text>
-  <rect x="20" y="150" width="590" height="16" rx="8" class="track"/>
-  <rect x="20" y="150" width="413" height="16" rx="8" fill="url(#bar2)" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="413" dur="1.2s" fill="freeze"/>
-  </rect>
-  <text x="620" y="163" class="pct" text-anchor="end">70%</text>
-
-  <!-- SQL 60% -->
-  <text x="20" y="200" class="label">🗄️ SQL</text>
-  <rect x="20" y="210" width="590" height="16" rx="8" class="track"/>
-  <rect x="20" y="210" width="354" height="16" rx="8" fill="url(#bar3)" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="354" dur="1.2s" fill="freeze"/>
-  </rect>
-  <text x="620" y="223" class="pct" text-anchor="end">60%</text>
-
-  <!-- Data Viz 50% -->
-  <text x="20" y="260" class="label">📊 Data Viz</text>
-  <rect x="20" y="270" width="590" height="16" rx="8" class="track"/>
-  <rect x="20" y="270" width="295" height="16" rx="8" fill="url(#bar4)" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="295" dur="1.2s" fill="freeze"/>
-  </rect>
-  <text x="620" y="283" class="pct" text-anchor="end">50%</text>
-
-  <!-- AWS Cloud 20% -->
-  <text x="20" y="320" class="label">☁️ AWS Cloud</text>
-  <rect x="20" y="330" width="590" height="16" rx="8" class="track"/>
-  <rect x="20" y="330" width="118" height="16" rx="8" fill="url(#bar5)" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="118" dur="1.2s" fill="freeze"/>
-  </rect>
-  <text x="620" y="343" class="pct" text-anchor="end">20%</text>
-</svg>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6C3483&height=220&section=header&text=Hi%20there,%20I'm%20Shreya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20·%20Python%20·%20SQL%20·%20Pandas&descAlignY=55&descSize=18&descColor=D7BDE2" width="100%"/>
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=300&section=header&text=Shreya&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Making%20✨&descAlignY=58&descSize=25&descColor=bf80ff&stroke=6C3483&strokeWidth=2)
 
-<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=9B59B6"/></a>
-<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=9B59B6"/></a>
-<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=9B59B6"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=💜+Aspiring+Data+Engineer;🐍+Python+%7C+SQL+%7C+Pandas;📊+Building+Real+Data+Pipelines;🎮+Gaming+Data+Enthusiast;🚀+Final+Year+%40+Malnad+College+of+Engineering" alt="Typing SVG">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
-<br>
+---
 
-## 💜 About Me
+<div align="center">
 
-I'm a final-year **B.Tech student at Malnad College of Engineering**, based in Bengaluru, India 🇮🇳 — turning messy datasets into clean, usable pipelines and dashboards.
+## 👾 whoami
 
-```yaml
-role:        Aspiring Data Engineer
-currently:   Building end-to-end data pipelines
-learning:    SQL · Apache Airflow · AWS Cloud
-goal:        Land a Data Engineering internship 🎯
-fun_fact:    I code better at night 🌙
+</div>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
+
+```python
+shreya = {
+  "name"      : "Shreya",
+  "college"   : "Malnad College of Engineering",
+  "degree"    : "B.Tech — Final Year 🎓",
+  "location"  : "Bengaluru 🇮🇳",
+  "passion"   : "Data Engineering 💜",
+  "hobbies"   : ["Gaming 🎮", "Coding 💻", "Music 🎵"],
+  "currently" : "Building data pipelines! 🚀",
+  "goal"      : "Data Engineering Internship 🎯",
+  "fun_fact"  : "I debug at midnight 🌙"
+}
 ```
 
-<br>
+<br><br>
 
-## 🛠️ Tech Stack
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github,aws&theme=dark" />
+## 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,jupyter&theme=dark" />
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=BF80FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=BF80FF)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=BF80FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=BF80FF)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=BF80FF)
+![VSCode](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=BF80FF)
 
 </div>
 
-<br>
+---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+
+</div>
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%">
 
-### 🎮 Gaming Sales Analytics
-Analysed **16,000+** video game sales records to uncover industry trends — top sellers, platforms, genres, and revenue by publisher.
+### 🎮 Gaming Analytics Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![Pandas](https://img.shields.io/badge/-Pandas-0a0a0a?style=flat&logo=pandas&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
 
-`Python` `Pandas` `Matplotlib`
+Analysed **16,000+ game records** to find top games, genres & publishers
 
-**[View Project →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🎬 YouTube Trending Pipeline
-Analysed **40,000+** trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
-
-`Python` `SQLite` `SQL`
-
-**[View Project →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
+[🔗 View Project](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%">
 
-### 🛒 E-Commerce Sales Analytics
-Processed **180,000+** orders to surface revenue trends — best month/city for sales, top products, ideal ad timing.
+### 🎬 YouTube Trends Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=flat&logo=mysql&logoColor=BF80FF)
+![SQLite](https://img.shields.io/badge/-SQLite-0a0a0a?style=flat&logo=sqlite&logoColor=BF80FF)
 
-`Python` `SQL` `Matplotlib`
+Analysed **40,000+ videos** to find viral content patterns & trends
 
-**[View Project →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
+[🔗 View Project](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🛒 E-Commerce Sales Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=flat&logo=mysql&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+
+Processed **180,000+ orders** to uncover revenue trends & business insights
+
+[🔗 View Project](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&icon_color=BF80FF&text_color=ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=000000&title_color=9B59B6&icon_color=9B59B6" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9B59B6" width="35%"/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&text_color=ffffff)
 
-<br>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=midnight-purple&hide_border=true&background=000000&stroke=9B59B6&ring=9B59B6&fire=D7BDE2&currStreakLabel=D7BDE2" width="70%"/>
+## 🎯 2026 Goals
 
-</div>
+| Goal | Status |
+|------|--------|
+| Build 3 Real Data Pipelines | ✅ Done! |
+| Master Python & Pandas | ✅ Done! |
+| Learn SQL Deeply | ✅ Done! |
+| Land Data Engineering Internship | ⏳ In Progress |
+| Learn AWS Cloud | ⏳ Coming Soon |
+| Master Apache Airflow | ⏳ Coming Soon |
 
-<br>
+---
 
-<div align="center">
+## 💜 Connect With Me
 
-<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/progress-bars.svg" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=BF80FF)](https://www.linkedin.com/in/shreya-gn)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=BF80FF)](https://github.com/shreyaa89722-lang)
+[![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=BF80FF)](mailto:shreyaa89722@gmail.com)
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-<br>
+### 💜 *"Turning raw data into powerful insights!"* 💜
 
-<div align="center">
-
-### 💜 *"Data is the new oil — I refine it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:000000&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=150&section=footer&animation=fadeIn)
 
 </div>
