@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreya+%F0%9F%91%8B;Aspiring+Data+Engineer;Python+%C2%B7+SQL+%C2%B7+Pandas;Turning+Data+into+Insights" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3d,25:3b1f6b,60:7c3aed,100:ec4899&height=260&section=header&text=Shreya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20·%20Python%20·%20SQL%20·%20Pandas&descAlignY=55&descSize=18&descColor=e9d8fd" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Building+real+data+pipelines+%F0%9F%93%8A;Turning+raw+data+into+insight;B.Tech+Final+Year+%40+Malnad+College" alt="Typing SVG" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=EC4899"/></a>
 <a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
@@ -89,11 +89,41 @@ Processed **180,000+** orders to surface revenue trends.
 
 <br>
 
-## 🤝 Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/output/snake-dark.svg" width="100%"/>
+</div>
+
+<br>
+
+## 🎯 Current Learning Progress
+
+| Skill | Progress |
+|-------|----------|
+| 🐍 Python | ████████░░ 80% |
+| 🐼 Pandas | ███████░░░ 70% |
+| 🗄️ SQL | ██████░░░░ 60% |
+| 📊 Data Viz | █████░░░░░ 50% |
+| ☁️ AWS Cloud | ██░░░░░░░░ 20% |
+
+<br>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/shreya-gn)
 [![Gmail](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shreyaa89722@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 *"Data is the new oil — I refine it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1b3d&height=120&section=footer" width="100%"/>
 
 </div>
