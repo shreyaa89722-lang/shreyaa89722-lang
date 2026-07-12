@@ -1,164 +1,122 @@
-import React, { useEffect, useState } from "react";
-import { Code2, PieChart, Database, Cloud } from "lucide-react";
+<div align="center">
 
-const skills = [
-  { label: "PYTHON", lvl: 8, icon: Code2, color: "#7dd3ff" },
-  { label: "PANDAS", lvl: 7, icon: PieChart, color: "#c77dff" },
-  { label: "SQL", lvl: 6, icon: Database, color: "#ff9ecf" },
-  { label: "AWS", lvl: 2, icon: Cloud, color: "#7c3aed" },
-];
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=SHREYA.EXE;DATA+ENGINEER+-+LVL%3A+FINAL+YEAR;LOADING+SKILLS...;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
-const floaters = [
-  { top: "6%", left: "4%", size: 8, color: "#7dd3ff", delay: 0 },
-  { top: "3%", left: "50%", size: 4, color: "#c77dff", delay: 0.6 },
-  { top: "8%", left: "94%", size: 6, color: "#ec4899", delay: 1.1 },
-  { top: "80%", left: "10%", size: 5, color: "#c77dff", delay: 0.3 },
-  { top: "88%", left: "40%", size: 3, color: "#7dd3ff", delay: 1.5 },
-  { top: "84%", left: "88%", size: 5, color: "#ec4899", delay: 0.8 },
-];
+<br>
 
-export default function GamingProfileHero() {
-  const [xp, setXp] = useState(0);
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b3d,50:7c3aed,100:ec4899&height=6&width=900" width="70%"/>
 
-  useEffect(() => {
-    const t = setTimeout(() => setXp(80), 300);
-    return () => clearTimeout(t);
-  }, []);
+<br><br>
 
-  return (
-    <div
-      style={{
-        position: "relative",
-        overflow: "hidden",
-        borderRadius: "16px",
-        minHeight: "360px",
-        padding: "48px 32px",
-        background:
-          "repeating-linear-gradient(0deg, #0d0a1f, #0d0a1f 2px, #100c24 2px, #100c24 4px)",
-        fontFamily: "'Cascadia Code','Fira Code',Consolas,monospace",
-      }}
-    >
-      <style>{`
-        @keyframes floatY {
-          0%, 100% { transform: translateY(0px); opacity: 0.5; }
-          50% { transform: translateY(-14px); opacity: 1; }
-        }
-        @keyframes glowPulse {
-          0%, 100% { filter: drop-shadow(0 0 6px rgba(199,125,255,0.5)); }
-          50% { filter: drop-shadow(0 0 16px rgba(236,72,153,0.7)); }
-        }
-      `}</style>
+<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=EC4899"/></a>
+<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
+<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=EC4899"/></a>
 
-      {floaters.map((f, i) => (
-        <div
-          key={i}
-          style={{
-            position: "absolute",
-            top: f.top,
-            left: f.left,
-            width: f.size,
-            height: f.size,
-            background: f.color,
-            borderRadius: i % 2 === 0 ? "2px" : "50%",
-            animation: `floatY ${3 + i * 0.4}s ease-in-out infinite`,
-            animationDelay: `${f.delay}s`,
-          }}
-        />
-      ))}
+</div>
 
-      <div
-        style={{
-          position: "absolute",
-          top: "40%",
-          left: "5%",
-          width: "26px",
-          height: "26px",
-          opacity: 0.85,
-          animation: "floatY 4s ease-in-out infinite",
-        }}
-      >
-        <div style={{ position: "absolute", top: "9px", left: "0", width: "26px", height: "8px", background: "#c9b6ea", borderRadius: "2px" }} />
-        <div style={{ position: "absolute", top: "0", left: "9px", width: "8px", height: "26px", background: "#c9b6ea", borderRadius: "2px" }} />
-      </div>
+<br>
 
-      <div style={{ position: "relative", zIndex: 2, textAlign: "center" }}>
-        <h1
-          style={{
-            fontSize: "56px",
-            fontWeight: 800,
-            letterSpacing: "6px",
-            margin: 0,
-            backgroundImage: "linear-gradient(90deg, #7dd3ff, #c77dff, #ec4899)",
-            WebkitBackgroundClip: "text",
-            WebkitTextFillColor: "transparent",
-            animation: "glowPulse 3s ease-in-out infinite",
-          }}
-        >
-          SHREYA.EXE
-        </h1>
+## 🎮 Player Stats
 
-        <p
-          style={{
-            color: "#c9b6ea",
-            fontSize: "16px",
-            letterSpacing: "4px",
-            marginTop: "14px",
-            fontWeight: 600,
-          }}
-        >
-          DATA ENGINEER · LEVEL: FINAL YEAR
-        </p>
+```yaml
+character:   Shreya
+class:       Data Engineer (Aspiring)
+guild:       Malnad College of Engineering
+level:       Final Year — B.Tech
+current_hp:  Building end-to-end data pipelines
+mana:        SQL · Apache Airflow · AWS Cloud
+quest:       Land a Data Engineering internship 🎯
+```
 
-        <div style={{ maxWidth: "440px", margin: "32px auto 0", textAlign: "left" }}>
-          <span style={{ color: "#7dd3ff", fontSize: "13px", letterSpacing: "2px" }}>XP</span>
-          <div
-            style={{
-              marginTop: "6px",
-              width: "100%",
-              height: "16px",
-              borderRadius: "8px",
-              background: "#1a1030",
-              border: "1px solid #3a2560",
-              position: "relative",
-              overflow: "hidden",
-            }}
-          >
-            <div
-              style={{
-                height: "100%",
-                width: `${xp}%`,
-                borderRadius: "8px",
-                background: "linear-gradient(90deg, #3b5bfd, #7c3aed, #ec4899)",
-                transition: "width 1.6s ease-out",
-              }}
-            />
-          </div>
-          <span style={{ color: "#c9b6ea", fontSize: "12px", float: "right", marginTop: "4px" }}>{xp}%</span>
-        </div>
+<br>
 
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "10px 40px",
-            maxWidth: "440px",
-            margin: "40px auto 0",
-            textAlign: "left",
-          }}
-        >
-          {skills.map((s, i) => {
-            const Icon = s.icon;
-            return (
-              <div key={i} style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-                <Icon size={16} color={s.color} />
-                <span style={{ color: "#e9d8fd", fontSize: "14px", letterSpacing: "1px" }}>
-                  {s.label} <span style={{ color: "#c9b6ea" }}>Lv.{s.lvl}</span>
-                </span>
-              </div>
-            );
-          })}
-        </div>
-      </div>
-    </div>
-  );
-}
+## 🕹️ Skill Tree
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github,aws&theme=dark" />
+</div>
+
+<br>
+
+## 🏆 Quests Completed (Featured Projects)
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎮 Gaming Sales Analytics
+**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends.
+
+`Python` `Pandas` `Matplotlib`
+
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 YouTube Trending Pipeline
+**Quest reward:** Analysed 40,000+ trending videos to find what drives virality.
+
+`Python` `SQLite` `SQL`
+
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 E-Commerce Sales Analytics
+**Quest reward:** Processed 180,000+ orders to surface revenue trends.
+
+`Python` `SQL` `Matplotlib`
+
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 Leaderboard (GitHub Stats)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&icon_color=7C3AED&text_color=c9b6ea" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&text_color=c9b6ea" width="35%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=EC4899&fire=EC4899&currStreakLabel=c9b6ea" width="70%"/>
+
+</div>
+
+<br>
+
+## ⚡ Achievements Unlocked
+
+| Achievement | Progress |
+|-------|----------|
+| 🐍 Python Mastery | ████████░░ 80% |
+| 🐼 Pandas Wizardry | ███████░░░ 70% |
+| 🗄️ SQL Sorcery | ██████░░░░ 60% |
+| 📊 Data Viz Skill | █████░░░░░ 50% |
+| ☁️ Cloud Conquest | ██░░░░░░░░ 20% |
+
+<br>
+
+## 🤝 Co-op Mode (Connect With Me)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/shreya-gn)
+[![Gmail](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shreyaa89722@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎮 *"Every dataset is just another level to clear."*
+
+</div>
