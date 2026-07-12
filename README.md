@@ -12,21 +12,21 @@
 
 <br>
 
-## 💜 About Me
+## 🎮 Player Stats
 
 ```yaml
-role:        Aspiring Data Engineer
-college:     Malnad College of Engineering (Final Year)
-location:    Bengaluru, India
-currently:   Building end-to-end data pipelines
-learning:    SQL · Apache Airflow · AWS Cloud
-goal:        Land a Data Engineering internship 🎯
-fun_fact:    I code better at night 🌙
+character:   Shreya
+class:       Data Engineer (Aspiring)
+guild:       Malnad College of Engineering
+level:       Final Year — B.Tech
+current_hp:  Building end-to-end data pipelines
+mana:        SQL · Apache Airflow · AWS Cloud
+quest:       Land a Data Engineering internship 🎯
 ```
 
 <br>
 
-## 🛠️ Tech Stack
+## 🕹️ Skill Tree
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github,aws&theme=dark" />
@@ -34,38 +34,38 @@ fun_fact:    I code better at night 🌙
 
 <br>
 
-## 🚀 Featured Projects
+## 🏆 Quests Completed (Featured Projects)
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🎮 Gaming Sales Analytics
-Analysed **16,000+** video game sales records to uncover industry trends — top sellers, platforms, genres, and revenue by publisher.
+**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends — top sellers, platforms, genres, top publishers.
 
 `Python` `Pandas` `Matplotlib`
 
-**[View Project →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎬 YouTube Trending Pipeline
-Analysed **40,000+** trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
+**Quest reward:** Analysed 40,000+ trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
 
 `Python` `SQLite` `SQL`
 
-**[View Project →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛒 E-Commerce Sales Analytics
-Processed **180,000+** orders to surface revenue trends — best month/city for sales, top products, ideal ad timing.
+**Quest reward:** Processed 180,000+ orders to surface revenue trends — best month/city, top products, ideal ad timing.
 
 `Python` `SQL` `Matplotlib`
 
-**[View Project →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
+**[Enter Dungeon →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Processed **180,000+** orders to surface revenue trends — best month/city for 
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Leaderboard (GitHub Stats)
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Processed **180,000+** orders to surface revenue trends — best month/city for 
 
 <br>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Daily Grind)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/output/snake-dark.svg" width="100%"/>
@@ -96,19 +96,19 @@ Processed **180,000+** orders to surface revenue trends — best month/city for 
 
 <br>
 
-## 🎯 Current Learning Progress
+## ⚡ Achievements Unlocked
 
-| Skill | Progress |
+| Achievement | Progress |
 |-------|----------|
-| 🐍 Python | ████████░░ 80% |
-| 🐼 Pandas | ███████░░░ 70% |
-| 🗄️ SQL | ██████░░░░ 60% |
-| 📊 Data Viz | █████░░░░░ 50% |
-| ☁️ AWS Cloud | ██░░░░░░░░ 20% |
+| 🐍 Python Mastery | ████████░░ 80% |
+| 🐼 Pandas Wizardry | ███████░░░ 70% |
+| 🗄️ SQL Sorcery | ██████░░░░ 60% |
+| 📊 Data Viz Skill | █████░░░░░ 50% |
+| ☁️ Cloud Conquest | ██░░░░░░░░ 20% |
 
 <br>
 
-## 🤝 Connect With Me
+## 🤝 Co-op Mode (Connect With Me)
 
 <div align="center">
 
@@ -121,8 +121,6 @@ Processed **180,000+** orders to surface revenue trends — best month/city for 
 
 <div align="center">
 
-### 💜 *"Data is the new oil — I refine it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1b3d&height=100&section=footer" width="100%"/>
+### 🎮 *"Every dataset is just another level to clear."*
 
 </div>
