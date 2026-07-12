@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3d,25:3b1f6b,60:7c3aed,100:ec4899&height=260&section=header&text=Shreya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20·%20Python%20·%20SQL%20·%20Pandas&descAlignY=55&descSize=18&descColor=e9d8fd" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Building+real+data+pipelines+%F0%9F%93%8A;Turning+raw+data+into+insight;B.Tech+Final+Year+%40+Malnad+College" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/gaming-hero.svg" width="100%"/>
 
 <br><br>
 
@@ -23,6 +21,7 @@ location:    Bengaluru, India
 currently:   Building end-to-end data pipelines
 learning:    SQL · Apache Airflow · AWS Cloud
 goal:        Land a Data Engineering internship 🎯
+fun_fact:    I code better at night 🌙
 ```
 
 <br>
@@ -42,7 +41,7 @@ goal:        Land a Data Engineering internship 🎯
 <td width="33%" valign="top">
 
 ### 🎮 Gaming Sales Analytics
-Analysed **16,000+** video game sales records to uncover industry trends.
+Analysed **16,000+** video game sales records to uncover industry trends — top sellers, platforms, genres, and revenue by publisher.
 
 `Python` `Pandas` `Matplotlib`
 
@@ -52,7 +51,7 @@ Analysed **16,000+** video game sales records to uncover industry trends.
 <td width="33%" valign="top">
 
 ### 🎬 YouTube Trending Pipeline
-Analysed **40,000+** trending videos to find what drives virality.
+Analysed **40,000+** trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
 
 `Python` `SQLite` `SQL`
 
@@ -62,7 +61,7 @@ Analysed **40,000+** trending videos to find what drives virality.
 <td width="33%" valign="top">
 
 ### 🛒 E-Commerce Sales Analytics
-Processed **180,000+** orders to surface revenue trends.
+Processed **180,000+** orders to surface revenue trends — best month/city for sales, top products, ideal ad timing.
 
 `Python` `SQL` `Matplotlib`
 
@@ -124,6 +123,6 @@ Processed **180,000+** orders to surface revenue trends.
 
 ### 💜 *"Data is the new oil — I refine it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1b3d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1b3d&height=100&section=footer" width="100%"/>
 
 </div>
