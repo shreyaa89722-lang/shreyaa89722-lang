@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/gaming-hero.svg" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=SHREYA.EXE;DATA+ENGINEER+-+LVL%3A+FINAL+YEAR;LOADING+SKILLS...;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b3d,50:7c3aed,100:ec4899&height=6&width=900" width="70%"/>
 
 <br><br>
 
@@ -41,7 +45,7 @@ quest:       Land a Data Engineering internship 🎯
 <td width="33%" valign="top">
 
 ### 🎮 Gaming Sales Analytics
-**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends — top sellers, platforms, genres, top publishers.
+**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends.
 
 `Python` `Pandas` `Matplotlib`
 
@@ -51,7 +55,7 @@ quest:       Land a Data Engineering internship 🎯
 <td width="33%" valign="top">
 
 ### 🎬 YouTube Trending Pipeline
-**Quest reward:** Analysed 40,000+ trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
+**Quest reward:** Analysed 40,000+ trending videos to find what drives virality.
 
 `Python` `SQLite` `SQL`
 
@@ -61,7 +65,7 @@ quest:       Land a Data Engineering internship 🎯
 <td width="33%" valign="top">
 
 ### 🛒 E-Commerce Sales Analytics
-**Quest reward:** Processed 180,000+ orders to surface revenue trends — best month/city, top products, ideal ad timing.
+**Quest reward:** Processed 180,000+ orders to surface revenue trends.
 
 `Python` `SQL` `Matplotlib`
 
@@ -84,14 +88,6 @@ quest:       Land a Data Engineering internship 🎯
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=EC4899&fire=EC4899&currStreakLabel=c9b6ea" width="70%"/>
 
-</div>
-
-<br>
-
-## 🐍 Contribution Snake (Daily Grind)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/output/snake-dark.svg" width="100%"/>
 </div>
 
 <br>
@@ -122,5 +118,7 @@ quest:       Land a Data Engineering internship 🎯
 <div align="center">
 
 ### 🎮 *"Every dataset is just another level to clear."*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:7c3aed,100:0d1b3d&height=6&width=900" width="70%"/>
 
 </div>
