@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/avatar.jpeg" width="200" style="border-radius: 12px;"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreya+%F0%9F%91%8B;Aspiring+Data+Engineer;Python+%C2%B7+SQL+%C2%B7+Pandas;Turning+Data+into+Insights" alt="Typing SVG" />
+</a>
 
-<h1>Shreya</h1>
+<br>
 
-✨ Malnad College of Engineering · B.Tech Final Year ✨
-
-📊 building real data pipelines
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=9B59B6"/></a>
-<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=9B59B6"/></a>
-<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=9B59B6"/></a>
+<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=EC4899"/></a>
+<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
+<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=EC4899"/></a>
 
 </div>
 
@@ -22,10 +18,11 @@
 
 ```yaml
 role:        Aspiring Data Engineer
+college:     Malnad College of Engineering (Final Year)
+location:    Bengaluru, India
 currently:   Building end-to-end data pipelines
 learning:    SQL · Apache Airflow · AWS Cloud
 goal:        Land a Data Engineering internship 🎯
-fun_fact:    I code better at night 🌙
 ```
 
 <br>
@@ -45,7 +42,7 @@ fun_fact:    I code better at night 🌙
 <td width="33%" valign="top">
 
 ### 🎮 Gaming Sales Analytics
-Analysed **16,000+** video game sales records to uncover industry trends — top sellers, platforms, genres, and revenue by publisher.
+Analysed **16,000+** video game sales records to uncover industry trends.
 
 `Python` `Pandas` `Matplotlib`
 
@@ -55,7 +52,7 @@ Analysed **16,000+** video game sales records to uncover industry trends — top
 <td width="33%" valign="top">
 
 ### 🎬 YouTube Trending Pipeline
-Analysed **40,000+** trending videos to find what drives virality — best upload times, top channels, views-vs-likes patterns.
+Analysed **40,000+** trending videos to find what drives virality.
 
 `Python` `SQLite` `SQL`
 
@@ -65,7 +62,7 @@ Analysed **40,000+** trending videos to find what drives virality — best uploa
 <td width="33%" valign="top">
 
 ### 🛒 E-Commerce Sales Analytics
-Processed **180,000+** orders to surface revenue trends — best month/city for sales, top products, ideal ad timing.
+Processed **180,000+** orders to surface revenue trends.
 
 `Python` `SQL` `Matplotlib`
 
@@ -81,25 +78,22 @@ Processed **180,000+** orders to surface revenue trends — best month/city for 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=000000&title_color=9B59B6&icon_color=9B59B6" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9B59B6" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&icon_color=7C3AED&text_color=c9b6ea" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&text_color=c9b6ea" width="35%"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=midnight-purple&hide_border=true&background=000000&stroke=9B59B6&ring=9B59B6&fire=D7BDE2&currStreakLabel=D7BDE2" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=EC4899&fire=EC4899&currStreakLabel=c9b6ea" width="70%"/>
 
 </div>
 
 <br>
 
-## 🎯 Current Learning Progress
-
-<img src="https://raw.githubusercontent.com/shreyaa89722-lang/shreyaa89722-lang/main/assets/terminal-progress.svg" width="100%"/>
-
-<br>
+## 🤝 Connect
 
 <div align="center">
 
-### 💜 *"Data is the new oil — I refine it."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/shreya-gn)
+[![Gmail](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shreyaa89722@gmail.com)
 
 </div>
