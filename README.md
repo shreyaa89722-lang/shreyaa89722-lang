@@ -1,98 +1,151 @@
-<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0f"/>
-      <stop offset="100%" stop-color="#150a2e"/>
-    </linearGradient>
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#ec4899"/>
-    </linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#7c3aed" stroke-width="0.4" opacity="0.25"/>
-    </pattern>
-  </defs>
+<div align="center">
 
-  <!-- background -->
-  <rect width="1000" height="280" fill="url(#bgGrad)"/>
-  <rect width="1000" height="280" fill="url(#grid)"/>
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=300&section=header&text=Shreya&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Making%20%F0%9F%8E%AE&descAlignY=58&descSize=25&descColor=bf80ff&stroke=6C3483&strokeWidth=2)
 
-  <!-- HUD corner brackets -->
-  <g stroke="#ec4899" stroke-width="3" fill="none" opacity="0.9">
-    <path d="M20,20 L20,55 M20,20 L55,20"/>
-    <path d="M980,20 L980,55 M980,20 L945,20"/>
-    <path d="M20,260 L20,225 M20,260 L55,260"/>
-    <path d="M980,260 L980,225 M980,260 L945,260"/>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=18&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=PLAYER%3A+SHREYA;CLASS%3A+DATA+ENGINEER;LVL%3A+FINAL+YEAR;PRESS+START+TO+CONTINUE" alt="Typing SVG">
 
-  <!-- ONLINE status -->
-  <circle cx="45" cy="42" r="5" fill="#22ff88">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
-  </circle>
-  <text x="58" y="46" font-family="'Courier New', monospace" font-size="12" fill="#22ff88" letter-spacing="1">ONLINE</text>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500">
 
-  <!-- controller icon (top right) -->
-  <g transform="translate(910,28)" fill="none" stroke="url(#neonGrad)" stroke-width="2.5" filter="url(#glow)">
-    <path d="M5,15 Q5,2 20,2 L45,2 Q60,2 60,15 L60,20 Q60,30 50,30 Q45,30 42,25 L38,20 L27,20 L23,25 Q20,30 15,30 Q5,30 5,20 Z"/>
-    <line x1="16" y1="10" x2="16" y2="18"/>
-    <line x1="12" y1="14" x2="20" y2="14"/>
-    <circle cx="48" cy="10" r="1.8" fill="#ec4899" stroke="none"/>
-    <circle cx="53" cy="15" r="1.8" fill="#ec4899" stroke="none"/>
-  </g>
+</div>
 
-  <!-- title -->
-  <text x="500" y="90" font-family="'Courier New', monospace" font-size="46" font-weight="bold"
-        text-anchor="middle" fill="url(#neonGrad)" filter="url(#glow)" letter-spacing="4">SHREYA</text>
-  <text x="500" y="118" font-family="'Courier New', monospace" font-size="15"
-        text-anchor="middle" fill="#c9b6ea" letter-spacing="3">DATA ENGINEER // FINAL YEAR // MALNAD COLLEGE</text>
 
-  <!-- divider -->
-  <line x1="250" y1="135" x2="750" y2="135" stroke="#7c3aed" stroke-width="1" opacity="0.5"/>
+</div>
 
-  <!-- stat bars -->
-  <g font-family="'Courier New', monospace" font-size="13" fill="#c9b6ea">
-    <!-- PYTHON -->
-    <text x="250" y="160">PYTHON</text>
-    <rect x="350" y="149" width="330" height="14" rx="3" fill="#1e1e2e" stroke="#7c3aed" stroke-width="1.5"/>
-    <rect x="353" y="152" width="0" height="8" rx="2" fill="url(#neonGrad)">
-      <animate attributeName="width" values="0;300" dur="2s" fill="freeze" begin="0.2s"/>
-    </rect>
-    <text x="695" y="160" fill="#ec4899">90%</text>
+---
 
-    <!-- SQL -->
-    <text x="250" y="185">SQL</text>
-    <rect x="350" y="174" width="330" height="14" rx="3" fill="#1e1e2e" stroke="#7c3aed" stroke-width="1.5"/>
-    <rect x="353" y="177" width="0" height="8" rx="2" fill="url(#neonGrad)">
-      <animate attributeName="width" values="0;230" dur="2s" fill="freeze" begin="0.4s"/>
-    </rect>
-    <text x="695" y="185" fill="#ec4899">70%</text>
+<div align="center">
 
-    <!-- AIRFLOW -->
-    <text x="250" y="210">AIRFLOW</text>
-    <rect x="350" y="199" width="330" height="14" rx="3" fill="#1e1e2e" stroke="#7c3aed" stroke-width="1.5"/>
-    <rect x="353" y="202" width="0" height="8" rx="2" fill="url(#neonGrad)">
-      <animate attributeName="width" values="0;165" dur="2s" fill="freeze" begin="0.6s"/>
-    </rect>
-    <text x="695" y="210" fill="#ec4899">50%</text>
+## 👾 whoami
 
-    <!-- AWS -->
-    <text x="250" y="235">AWS</text>
-    <rect x="350" y="224" width="330" height="14" rx="3" fill="#1e1e2e" stroke="#7c3aed" stroke-width="1.5"/>
-    <rect x="353" y="227" width="0" height="8" rx="2" fill="url(#neonGrad)">
-      <animate attributeName="width" values="0;100" dur="2s" fill="freeze" begin="0.8s"/>
-    </rect>
-    <text x="695" y="235" fill="#ec4899">30%</text>
-  </g>
+</div>
 
-  <!-- scanning sweep line -->
-  <rect x="0" y="0" width="4" height="280" fill="#ec4899" opacity="0.5">
-    <animate attributeName="x" values="0;996;0" dur="6s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250">
+
+```python
+shreya = {
+  "name"      : "Shreya",
+  "college"   : "Malnad College of Engineering",
+  "degree"    : "B.Tech — Final Year 🎓",
+  "location"  : "Bengaluru 🇮🇳",
+  "passion"   : "Data Engineering 💜",
+  "hobbies"   : ["Gaming 🎮", "Coding 💻", "Music 🎵"],
+  "currently" : "Building data pipelines! 🚀",
+  "goal"      : "Data Engineering Internship 🎯",
+  "fun_fact"  : "I debug at midnight 🌙"
+}
+```
+
+<br><br>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,jupyter&theme=dark" />
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=BF80FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=BF80FF)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=BF80FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=BF80FF)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=BF80FF)
+![VSCode](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=BF80FF)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Gaming Analytics Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![Pandas](https://img.shields.io/badge/-Pandas-0a0a0a?style=flat&logo=pandas&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+
+Analysed **16,000+ game records** to find top games, genres & publishers
+
+[🔗 View Project](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)
+
+</td>
+<td width="50%">
+
+### 🎬 YouTube Trends Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=flat&logo=mysql&logoColor=BF80FF)
+![SQLite](https://img.shields.io/badge/-SQLite-0a0a0a?style=flat&logo=sqlite&logoColor=BF80FF)
+
+Analysed **40,000+ videos** to find viral content patterns & trends
+
+[🔗 View Project](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🛒 E-Commerce Sales Pipeline
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=flat&logo=mysql&logoColor=BF80FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0a0a0a?style=flat&logo=python&logoColor=BF80FF)
+
+Processed **180,000+ orders** to uncover revenue trends & business insights
+
+[🔗 View Project](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&icon_color=BF80FF&text_color=ffffff)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&text_color=ffffff)
+
+---
+
+## 🎯 2026 Goals
+
+| Goal | Status |
+|------|--------|
+| Build 3 Real Data Pipelines | ✅ Done! |
+| Master Python & Pandas | ✅ Done! |
+| Learn SQL Deeply | ✅ Done! |
+| Land Data Engineering Internship | ⏳ In Progress |
+| Learn AWS Cloud | ⏳ Coming Soon |
+| Master Apache Airflow | ⏳ Coming Soon |
+
+---
+
+## 💜 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=BF80FF)](https://www.linkedin.com/in/shreya-gn)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=BF80FF)](https://github.com/shreyaa89722-lang)
+[![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=BF80FF)](mailto:shreyaa89722@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+### 💜 *"Turning raw data into powerful insights, one level at a time!"* 🎮
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=150&section=footer&animation=fadeIn)
+
+</div>
