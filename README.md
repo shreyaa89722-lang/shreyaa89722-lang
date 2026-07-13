@@ -38,6 +38,24 @@ shreya = {
 
 <div align="center">
 
+## 🎮 Player Stats
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100">
+
+```yaml
+class:      Data Engineer (Aspiring)
+guild:      Malnad College of Engineering
+level:      Final Year — B.Tech
+quest:      Land a Data Engineering internship 🎯
+xp_gained:  3 real-world pipelines shipped
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,jupyter&theme=dark" />
@@ -117,6 +135,8 @@ Processed **180,000+ orders** to uncover revenue trends & business insights
 ![Stats](https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&icon_color=BF80FF&text_color=ffffff)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&text_color=ffffff)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=midnight-purple&hide_border=true&background=0a0a0a&stroke=4a0080&ring=BF80FF&fire=BF80FF)
 
 ---
 
