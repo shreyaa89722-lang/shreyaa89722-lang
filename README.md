@@ -1,10 +1,10 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=300&section=header&text=Shreya&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Making%20✨&descAlignY=58&descSize=25&descColor=bf80ff&stroke=6C3483&strokeWidth=2)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=300&section=header&text=Shreya&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Making%20%F0%9F%8E%AE&descAlignY=58&descSize=25&descColor=bf80ff&stroke=6C3483&strokeWidth=2)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=💜+Aspiring+Data+Engineer;🐍+Python+%7C+SQL+%7C+Pandas;📊+Building+Real+Data+Pipelines;🎮+Gaming+Data+Enthusiast;🚀+Final+Year+%40+Malnad+College+of+Engineering" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=18&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=PLAYER%3A+SHREYA;CLASS%3A+DATA+ENGINEER;LVL%3A+FINAL+YEAR;PRESS+START+TO+CONTINUE" alt="Typing SVG">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 </div>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250">
 
 ```python
 shreya = {
@@ -33,24 +33,6 @@ shreya = {
 ```
 
 <br><br>
-
----
-
-<div align="center">
-
-## 🎮 Player Stats
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100">
-
-```yaml
-class:      Data Engineer (Aspiring)
-guild:      Malnad College of Engineering
-level:      Final Year — B.Tech
-quest:      Land a Data Engineering internship 🎯
-xp_gained:  3 real-world pipelines shipped
-```
-
-</div>
 
 ---
 
@@ -136,8 +118,6 @@ Processed **180,000+ orders** to uncover revenue trends & business insights
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=BF80FF&text_color=ffffff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=midnight-purple&hide_border=true&background=0a0a0a&stroke=4a0080&ring=BF80FF&fire=BF80FF)
-
 ---
 
 ## 🎯 2026 Goals
@@ -159,9 +139,9 @@ Processed **180,000+ orders** to uncover revenue trends & business insights
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=BF80FF)](https://github.com/shreyaa89722-lang)
 [![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=BF80FF)](mailto:shreyaa89722@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-### 💜 *"Turning raw data into powerful insights!"* 💜
+### 💜 *"Turning raw data into powerful insights, one level at a time!"* 🎮
 
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=150&section=footer&animation=fadeIn)
 
