@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=18&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=PLAYER%3A+SHREYA;CLASS%3A+DATA+ENGINEER;LVL%3A+FINAL+YEAR;PRESS+START+TO+CONTINUE" alt="Typing SVG">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 </div>
 
