@@ -1,132 +1,94 @@
-<div align="center">
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="55%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#2a0a3d"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="black" opacity="0.15"/>
+    </pattern>
+  </defs>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3d,50:7c3aed,100:ec4899&height=220&section=header&text=SHREYA.EXE&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20in%20Training%20%7C%20Final%20Year%20B.Tech&descAlignY=55&descAlign=50" width="100%"/>
+  <!-- background -->
+  <rect width="1000" height="300" fill="url(#bg)"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=SHREYA.EXE+INITIALIZED;DATA+ENGINEER+-+LVL%3A+FINAL+YEAR;LOADING+SKILLS...;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+  <!-- floating pixel stars -->
+  <g fill="#ec4899">
+    <rect x="60" y="40" width="4" height="4">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="920" y="60" width="4" height="4">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="150" y="230" width="4" height="4" fill="#7c3aed">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="850" y="220" width="4" height="4" fill="#7c3aed">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="500" y="30" width="3" height="3">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
-<br>
+  <!-- title -->
+  <text x="500" y="95" font-family="'Courier New', monospace" font-size="42" font-weight="bold"
+        text-anchor="middle" fill="url(#neon)" filter="url(#glow)">SHREYA.EXE</text>
+  <text x="500" y="130" font-family="'Courier New', monospace" font-size="16"
+        text-anchor="middle" fill="#c9b6ea" letter-spacing="2">DATA ENGINEER &#8226; FINAL YEAR &#8226; LVL 4</text>
 
-<img src="https://komarev.com/ghpvc/?username=shreyaa89722-lang&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/badge/STATUS-LOOKING%20FOR%20INTERNSHIP-ec4899?style=for-the-badge&logo=target&logoColor=white" alt="status"/>
+  <!-- blinking press start -->
+  <text x="500" y="165" font-family="'Courier New', monospace" font-size="15"
+        text-anchor="middle" fill="#ec4899" letter-spacing="3">
+    PRESS START TO CONTINUE
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
 
-<br><br>
+  <!-- XP bar -->
+  <rect x="300" y="185" width="400" height="18" rx="4" fill="#1e1e2e" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="303" y="188" width="0" height="12" rx="2" fill="url(#neon)">
+    <animate attributeName="width" values="0;394" dur="3s" fill="freeze" begin="0.3s"/>
+  </rect>
+  <text x="500" y="222" font-family="'Courier New', monospace" font-size="12" text-anchor="middle" fill="#8a7ba8">
+    XP: LOADING SKILLS... [PYTHON] [SQL] [AIRFLOW] [AWS]
+  </text>
 
-<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=EC4899"/></a>
-<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
-<a href="https://github.com/shreyaa89722-lang"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=EC4899"/></a>
+  <!-- pixel character walking -->
+  <g transform="translate(100,240)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 780,0; 780,0; 0,0" keyTimes="0;0.45;0.55;1" dur="9s" repeatCount="indefinite"/>
+      <!-- body -->
+      <rect x="0" y="0" width="16" height="16" fill="#ec4899"/>
+      <rect x="4" y="16" width="8" height="10" fill="#7c3aed"/>
+      <!-- legs animation -->
+      <rect x="2" y="26" width="4" height="6" fill="#c9b6ea">
+        <animate attributeName="height" values="6;2;6" dur="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="10" y="26" width="4" height="6" fill="#c9b6ea">
+        <animate attributeName="height" values="2;6;2" dur="0.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
 
-</div>
+  <!-- ground line -->
+  <line x1="0" y1="272" x2="1000" y2="272" stroke="#7c3aed" stroke-width="2" opacity="0.5"/>
 
-<br>
+  <!-- scanline overlay -->
+  <rect width="1000" height="300" fill="url(#scanlines)"/>
 
-## 🎮 Player Stats
-
-```yaml
-character:   Shreya
-class:       Data Engineer (Aspiring)
-guild:       Malnad College of Engineering
-level:       Final Year — B.Tech
-current_hp:  Building end-to-end data pipelines
-mana:        SQL · Apache Airflow · AWS Cloud
-quest:       Land a Data Engineering internship 🎯
-```
-
-<br>
-
-## 🕹️ Skill Tree
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github,aws&theme=dark" />
-
-</div>
-
-<br>
-
-## 🏆 Quests Completed (Featured Projects)
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-<h3>🎮 Gaming Sales Analytics</h3>
-
-**Quest reward:** Analysed 16,000+ video game sales records to uncover industry trends.
-
-`Python` `Pandas` `Matplotlib`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/gaming-analytics-pipeline)**
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🎬 YouTube Trending Pipeline</h3>
-
-**Quest reward:** Analysed 40,000+ trending videos to find what drives virality.
-
-`Python` `SQLite` `SQL`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/youtube-trends-pipeline)**
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🛒 E-Commerce Sales Analytics</h3>
-
-**Quest reward:** Processed 180,000+ orders to surface revenue trends.
-
-`Python` `SQL` `Matplotlib`
-
-**[Enter Dungeon →](https://github.com/shreyaa89722-lang/ecommerce-sales-pipeline)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 Leaderboard (GitHub Stats)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaa89722-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&icon_color=7C3AED&text_color=c9b6ea" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa89722-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=EC4899&text_color=c9b6ea" width="35%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaa89722-lang&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=EC4899&fire=EC4899&currStreakLabel=c9b6ea" width="70%"/>
-
-</div>
-
-<br>
-
-## ⚡ Achievements Unlocked
-
-| Achievement | Progress |
-|---|---|
-| 🐍 Python Mastery | ████████░░ 80% |
-| 🐼 Pandas Wizardry | ███████░░░ 70% |
-| 🗄️ SQL Sorcery | ██████░░░░ 60% |
-| 📊 Data Viz Skill | █████░░░░░ 50% |
-| ☁️ Cloud Conquest | ██░░░░░░░░ 20% |
-
-<br>
-
-## 🤝 Co-op Mode (Connect With Me)
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shreya-gn"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=7C3AED"/></a>
-<a href="mailto:shreyaa89722@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=7C3AED"/></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1b3d&height=100&section=footer" width="100%"/>
-
-<i>"Every dataset is just another level to clear."</i> 🎮
-
-</div>
+  <!-- border frame -->
+  <rect x="4" y="4" width="992" height="292" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.6"/>
+</svg>
