@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aurora-hero.svg" width="100%" alt="Shreya banner"/>
+<img src="assets-aurora-hero.svg" width="100%" alt="Shreya banner"/>
 
 </div>
 
