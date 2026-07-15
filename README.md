@@ -1,13 +1,8 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=300&section=header&text=Shreya&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20Making%20%F0%9F%8E%AE&descAlignY=58&descSize=25&descColor=bf80ff&stroke=6C3483&strokeWidth=2)
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=18&duration=3000&pause=1000&color=BF80FF&center=true&vCenter=true&random=false&width=700&lines=PLAYER%3A+SHREYA;CLASS%3A+DATA+ENGINEER;LVL%3A+FINAL+YEAR;PRESS+START+TO+CONTINUE" alt="Typing SVG">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="assets/aurora-hero.svg" width="100%" alt="Shreya banner"/>
 
 </div>
-
 
 </div>
 
@@ -15,7 +10,7 @@
 
 <div align="center">
 
-## 👾 whoami
+## 👾 About me 
 
 </div>
 
@@ -24,13 +19,12 @@
 ```python
 shreya = {
   "name"      : "Shreya",
-  "college"   : "Malnad College of Engineering",
-  "degree"    : "B.Tech — Final Year 🎓",
+  "degree"    : "B.E — Final Year 🎓",
   "location"  : "Bengaluru 🇮🇳",
   "passion"   : "Data Engineering 💜",
   "hobbies"   : ["Gaming 🎮", "Coding 💻", "Music 🎵"],
   "currently" : "Building data pipelines! 🚀",
-  "goal"      : "Data Engineering Internship 🎯",
+  "goal"      : "Data Engineering 🎯",
   "fun_fact"  : "I debug at midnight 🌙"
 }
 ```
