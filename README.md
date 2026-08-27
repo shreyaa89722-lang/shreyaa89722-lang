@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets-aurora-hero.svg" width="100%" alt="Shreya banner"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:7c3aed&height=180&section=header&text=Hi%20I'm%20Shreya%20%F0%9F%90%A7&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -68,8 +66,6 @@ shreya = {
 
 ---
 
-
-
 <div align="center">
 
 ## 🚀 Featured Projects
@@ -131,7 +127,7 @@ Analysed <b>40,000+ trending videos</b> to uncover what drives virality.
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">🛒 E-Commerce Sales Pipeline</h3>
 
@@ -152,6 +148,27 @@ Processed <b>180,000+ orders</b> to uncover revenue trends and business insights
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+<h3 align="center">📚 Books & Quotes Analysis</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=bf80ff"/>
+<img src="https://img.shields.io/badge/-Pandas-1e1e2e?style=flat-square&logo=pandas&logoColor=bf80ff"/>
+<img src="https://img.shields.io/badge/-Seaborn-1e1e2e?style=flat-square&logo=python&logoColor=bf80ff"/>
+</p>
+
+<p align="center">
+Scraped &amp; analyzed <b>1,000+ books &amp; quotes</b> for pricing, ratings &amp; sentiment analysis.
+</p>
+
+<p align="center">
+<a href="https://github.com/shreyaa89722-lang/books_data-analysis">
+<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
@@ -159,22 +176,19 @@ Processed <b>180,000+ orders</b> to uncover revenue trends and business insights
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyaa89722-lang&theme=react-dark&bg_color=0a0a0a&color=ec4899&line=bf80ff&point=ffffff&area=true&area_color=4a0080&hide_border=true&grid=false&custom_title=Shreya's%20Contribution%20Journey" width="100%"/>
 
 </div>
+
 ---
 
 ## 🎯 2026 Goals
 
 | Goal | Progress |
 |---|---|
-| Build 3 Real Data Pipelines | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 100% |
+| Build 4 Real Data Pipelines | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 100% |
 | Master Python & Pandas | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 100% |
 | Learn SQL Deeply | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 100% |
 | Land a Data Engineering Internship | 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ 50% |
@@ -182,6 +196,7 @@ Processed <b>180,000+ orders</b> to uncover revenue trends and business insights
 | Master Apache Airflow | 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
 
 ---
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -208,8 +223,6 @@ Processed <b>180,000+ orders</b> to uncover revenue trends and business insights
 
 </div>
 
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=BF80FF&center=true&vCenter=true&width=650&lines=Data+has+a+story+%E2%80%94+I+build+the+pipelines+that+tell+it." alt="Tagline">
@@ -222,8 +235,4 @@ Processed <b>180,000+ orders</b> to uncover revenue trends and business insights
 
 </div>
 
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:4a0080,100:0a0a0a&height=150&section=footer&animation=fadeIn)
-
-</div>
