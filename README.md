@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:7c3aed&height=180&section=header&text=Hi%20I'm%20Shreya%20%F0%9F%90%A7&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="./gaming-hero_1.svg" width="100%" alt="Header Banner"/>
 
 </div>
 
