@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" height="230">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" height="225">
 
 ```python
 shreya = {
@@ -178,13 +178,9 @@ Scraped &amp; analyzed <b>1,000+ books &amp; quotes</b> for pricing, ratings &am
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyaa89722-lang&theme=react-dark&bg_color=0a0a0a&color=ec4899&line=bf80ff&point=ffffff&area=true&area_color=4a0080&hide_border=true&grid=false&custom_title=Shreya's%20Contribution%20Journey" width="100%"/>
-
 </div>
 
 ---
-
-## 🎯 2026 Goals
 
 | Goal | Progress |
 |---|---|
